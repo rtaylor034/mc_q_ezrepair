@@ -55,11 +55,11 @@ data modify storage ezrepair:settings entries[-1].repairs append value {item:"mi
 data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_chestplate", value:200}
 data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_leggings", value:200}
 data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_boots", value:200}
-data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_pickaxe", value:500}
-data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_sword", value:500}
-data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_shovel", value:500}
-data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_axe", value:500}
-data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_hoe", value:500}
+data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_pickaxe", value:800}
+data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_sword", value:800}
+data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_shovel", value:800}
+data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_axe", value:800}
+data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:netherite_hoe", value:800}
 
 data modify storage ezrepair:settings entries append value {material:"minecraft:chain",repairs:[]}
 data modify storage ezrepair:settings entries[-1].repairs append value {item:"minecraft:chainmail_helmet", value:35}
